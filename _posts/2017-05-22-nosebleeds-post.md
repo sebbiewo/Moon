@@ -1,15 +1,13 @@
 ---
 layout: post
-title: "Testing Readability with a Bunch of Text"
+title: "Attila the Hun and Nosebleeds"
 date: 2012-05-22
-excerpt: "A ton of text to test readability."
+excerpt: "He was a man born into the world to shake all nations"
 tags: [sample post, readability, test]
 comments: true
 ---
+    Attila the Hun or the "Scourge of God" was born in ca. 400 and became leader of the Huns at age 34. He was leader of the Huns for another 20 years before his death in which he destroyed much of Italy, Rome, and many other parts of present day Europe. He and his tribe also brought smallpox into Europe which killed many thousands of people. Though not a single one of his enemies could lay a blade on him in 454 this famed warrior bled to death from a simple nosebleed.
 
-Portland in shoreditch Vice, labore typewriter pariatur hoodie fap sartorial Austin. Pinterest literally occupy Schlitz forage. Odio ad blue bottle vinyl, 90's narwhal commodo bitters pour-over nostrud. Ugh est hashtag in, fingerstache adipisicing laboris esse Pinterest shabby chic Portland. Shoreditch bicycle rights anim, flexitarian laboris put a bird on it vinyl cupidatat narwhal. Hashtag artisan skateboard, flannel Bushwick nesciunt salvia aute fixie do plaid post-ironic dolor McSweeney's. Cliche pour-over chambray nulla four loko skateboard sapiente hashtag.
-
-Vero laborum commodo occupy. Semiotics voluptate mumblecore pug. Cosby sweater ullamco quinoa ennui assumenda, sapiente occupy delectus lo-fi. Ea fashion axe Marfa cillum aliquip. Retro Bushwick keytar cliche. Before they sold out sustainable gastropub Marfa readymade, ethical Williamsburg skateboard brunch qui consectetur gentrify semiotics. Mustache cillum irony, fingerstache magna pour-over keffiyeh tousled selfies.
 
 ## Cupidatat 90's lo-fi authentic try-hard
 
