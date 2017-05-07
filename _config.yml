@@ -5,7 +5,7 @@ description:        "Thoughts on life's many mysteries."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/owl-logo.png'
-background:         'assets/img/placeholder-big.jpg'
+background:         'assets/img/sun-scene.jpeg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://sebbiewo.github.io/Moon
