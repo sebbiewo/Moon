@@ -24,7 +24,7 @@ hippopotomonstrosesquipedaliophobia [comes up empty in google's ngram viewer](ht
 
 The same results for sesquipedalophobia!
 
-Again, *sesquipedalian* does make a showing through the ages:
+Again, *sesquipedalian* does make a showing through the ages, hitting its peak around 1860:
 
 <div>
 <iframe name="ngram_chart" src="https://books.google.com/ngrams/interactive_chart?content=sesquipedalian&case_insensitive=on&year_start=1800&year_end=2008&corpus=0&smoothing=3&share=&direct_url=t4%3B%2Csesquipedalian%3B%2Cc0%3B%2Cs0%3B%3Bsesquipedalian%3B%2Cc0%3B%3BSesquipedalian%3B%2Cc0" width=900 height=500 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></iframe>
