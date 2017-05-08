@@ -27,10 +27,10 @@ All of this has to make one wonder, where did this hippopotomonstrosesquipedalio
 Including these wise words from the The Christian Examiner, Volume 72, published in 1862:
 
 <div style="width: 50%">
-<p>It is very true that when the experiment of dictating is first tried the luxury of the ease it gives is apt to be so great that it tends to looseness and verbosity of style for there is no better check on sesquipedalianism than the necessity of writing down one's sesquipedalian words for one's self.</p>
+<blockquote>It is very true that when the experiment of dictating is first tried the luxury of the ease it gives is apt to be so great that it tends to looseness and verbosity of style for there is no better check on sesquipedalianism than the necessity of writing down one's sesquipedalian words for one's self.</blockquote>
 <div>
 
-<div style="float: right; width: 50%>
+<div style="float: right; width: 50%">
 <a href="https://books.google.com/books?id=3ugWAQAAIAAJ&dq=%22sesquipedalian%22&pg=PA62&ci=165%2C1219%2C766%2C200&source=bookclip"><img src="https://books.google.com/books/content?id=3ugWAQAAIAAJ&pg=PA62&img=1&zoom=3&hl=en&sig=ACfU3U2oCceySddslFakVE_q7f0GqwouCw&ci=165%2C1219%2C766%2C200&edge=0"/></a>
 </div>
 
