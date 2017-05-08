@@ -18,8 +18,10 @@ All of this has to make one wonder, where did this hippopotomonstrosesquipedalio
 
 hippopotomonstrosesquipedaliophobia [comes up empty in google's ngram viewer](https://books.google.com/ngrams/graph?content=hippopotomonstrosesquipedaliophobia&year_start=1800&year_end=2008&corpus=0&smoothing=3&share=&direct_url=) indicating that, according to google, the word did not appear in their rather large collection of digitized books from 1800-2008:
 
-<div>
+<div style="width: 80%; margin-left: auto; margin-right: auto;">
+
 <iframe name="ngram_chart" src="https://books.google.com/ngrams/interactive_chart?content=hippopotomonstrosesquipedaliophobia&case_insensitive=on&year_start=1800&year_end=2008&corpus=0&smoothing=3&share=&direct_url=" width=900 height=500 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></iframe>
+
 </div>
 
 The same results for sesquipedalophobia!
