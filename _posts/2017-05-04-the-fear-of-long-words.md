@@ -12,3 +12,23 @@ If so, you might want to avoid saying hippopotomonstrosesquipedaliophobia, becau
 
 According to [the wiktionary](https://en.wiktionary.org/wiki/hippopotomonstrosesquipedaliophobia), hippopotomonstrosesquipedaliophobia, pronounced  ` /ˌhɪ.pəˌpɒ.tə(ʊ)ˈmɒn.stɹə(ʊ)ˌsɛs.kwɪ.pɪˌdɑːl.ɪ.ə(ʊ)ˈfəʊ.bɪ.ə/ ` is "the fear of long words." Unfortunately, wiktionary adds, "it is unlikely that this 15-syllable contrivance is ever used purely for its meaning" noting that the term sesquipedalophobia is more commonly used.
 
+That said, sesquipedalophobia, is nowhere to be found in the [Oxford English Dictionary](http://www.oed.com/noresults?browseType=sortAlpha&noresults=true&page=1&pageSize=20&q=sesquipedalophobia&scope=ENTRY&sort=entry&type=dictionarysearch), though the related [sesquipedalian](http://www.oed.com/view/Entry/176752?redirectedFrom=sesquipedalian&) `/ˌsɛskwɪpɪˈdeɪlɪən/` does make an appearance.
+
+All of this has to make one wonder, where did this hippopotomonstrosesquipedaliophobia and come from?
+
+hippopotomonstrosesquipedaliophobia [comes up empty in google's ngram viewer](https://books.google.com/ngrams/graph?content=hippopotomonstrosesquipedaliophobia&year_start=1800&year_end=2008&corpus=0&smoothing=3&share=&direct_url=) indicating that, according to google, the word did not appear in their rather large collection of digitized books from 1800-2008:
+
+<iframe name="ngram_chart" src="https://books.google.com/ngrams/interactive_chart?content=hippopotomonstrosesquipedaliophobia&case_insensitive=on&year_start=1800&year_end=2008&corpus=0&smoothing=3&share=&direct_url=" width=900 height=500 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></iframe>
+
+The same results for sesquipedalophobia!
+
+Again, *sesquipedalian* does make a showing through the ages:
+
+<iframe name="ngram_chart" src="https://books.google.com/ngrams/interactive_chart?content=sesquipedalian&case_insensitive=on&year_start=1800&year_end=2008&corpus=0&smoothing=3&share=&direct_url=t4%3B%2Csesquipedalian%3B%2Cc0%3B%2Cs0%3B%3Bsesquipedalian%3B%2Cc0%3B%3BSesquipedalian%3B%2Cc0" width=900 height=500 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></iframe>
+
+
+
+
+
+
+
