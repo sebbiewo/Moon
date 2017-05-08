@@ -30,9 +30,13 @@ Again, *sesquipedalian* does make a showing through the ages, hitting its peak a
 <iframe name="ngram_chart" src="https://books.google.com/ngrams/interactive_chart?content=sesquipedalian&case_insensitive=on&year_start=1800&year_end=2008&corpus=0&smoothing=3&share=&direct_url=t4%3B%2Csesquipedalian%3B%2Cc0%3B%2Cs0%3B%3Bsesquipedalian%3B%2Cc0%3B%3BSesquipedalian%3B%2Cc0" width=900 height=500 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></iframe>
 </div>
 
-these wise words from the The Christian Examiner, Volume 72, published in 
+Including these wise words from the The Christian Examiner, Volume 72, published in 1862:
 
+<div style="width: 50%">
+<p>It is very true that when the experiment of dictating is first tried the luxury of the ease it gives is apt to be so great that it tends to looseness and verbosity of style for there is no better check on sesquipedalianism than the necessity of writing down one's sesquipedalian words for one's self.</p>
 <div>
+
+<div style="float: right; width: 50%>
 <a href="https://books.google.com/books?id=3ugWAQAAIAAJ&dq=%22sesquipedalian%22&pg=PA62&ci=165%2C1219%2C766%2C200&source=bookclip"><img src="https://books.google.com/books/content?id=3ugWAQAAIAAJ&pg=PA62&img=1&zoom=3&hl=en&sig=ACfU3U2oCceySddslFakVE_q7f0GqwouCw&ci=165%2C1219%2C766%2C200&edge=0"/></a>
 </div>
 
