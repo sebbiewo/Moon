@@ -6,8 +6,9 @@ excerpt: "If you are afraid of long words, you might be afraid to name your fear
 tags: [words, phobias]
 comments: false
 ---
-Do you have hippopotomonstrosesquipedaliophobia? If so, you might want to avoid saying hippopotomonstrosesquipedaliophobia.
+Do you have hippopotomonstrosesquipedaliophobia?
 
-Hippopotomonstrosesquipedaliophobia is the fear of long words!
+If so, you might want to avoid saying hippopotomonstrosesquipedaliophobia, because hippopotomonstrosesquipedaliophobia is the fear of long words!
 
-To learn more, check out [the wiktionary definition](https://en.wiktionary.org/wiki/hippopotomonstrosesquipedaliophobia).
+According to [the wiktionary](https://en.wiktionary.org/wiki/hippopotomonstrosesquipedaliophobia), hippopotomonstrosesquipedaliophobia, pronounced  ` /ˌhɪ.pəˌpɒ.tə(ʊ)ˈmɒn.stɹə(ʊ)ˌsɛs.kwɪ.pɪˌdɑːl.ɪ.ə(ʊ)ˈfəʊ.bɪ.ə/ ` is "the fear of long words." Unfortunately, wiktionary adds, "it is unlikely that this 15-syllable contrivance is ever used purely for its meaning" noting that the term sesquipedalophobia is more commonly used.
+
