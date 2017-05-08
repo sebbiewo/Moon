@@ -16,7 +16,7 @@ That said, sesquipedalophobia, is nowhere to be found in the [Oxford English Dic
 
 All of this has to make one wonder, where did this hippopotomonstrosesquipedaliophobia and come from?
 
-*Hippopotomonstrosesquipedaliophobia* and *sesquipedalian* both  [come up empty in google's ngram viewer](https://books.google.com/ngrams/graph?content=hippopotomonstrosesquipedaliophobia&year_start=1800&year_end=2008&corpus=0&smoothing=3&share=&direct_url=) indicating that, according to google, the word did not appear in their rather large collection of digitized books from 1800-2008.
+*Hippopotomonstrosesquipedaliophobia* and *sesquipedalian* both  [come up empty in google's ngram viewer](https://books.google.com/ngrams/graph?content=hippopotomonstrosesquipedaliophobia&year_start=1800&year_end=2008&corpus=0&smoothing=3&share=&direct_url=) indicating that, according to google, neither word appeared in their rather large collection of digitized books from 1800-2008.
 
 *Sesquipedalian*, on the other hand, does make a showing through the ages, hitting its peak around 1860:
 
