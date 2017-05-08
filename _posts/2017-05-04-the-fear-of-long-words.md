@@ -21,7 +21,7 @@ All of this has to make one wonder, where did this hippopotomonstrosesquipedalio
 *Sesquipedalian*, on the other hand, does make a showing through the ages, hitting its peak around 1860:
 
 <div>
-<iframe name="ngram_chart" src="https://books.google.com/ngrams/interactive_chart?content=sesquipedalian&case_insensitive=on&year_start=1800&year_end=2008&corpus=0&smoothing=3&share=&direct_url=t4%3B%2Csesquipedalian%3B%2Cc0%3B%2Cs0%3B%3Bsesquipedalian%3B%2Cc0%3B%3BSesquipedalian%3B%2Cc0" width=900 height=500 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></iframe>
+<iframe name="ngram_chart" src="https://books.google.com/ngrams/interactive_chart?content=sesquipedalian&case_insensitive=on&year_start=1800&year_end=2008&corpus=0&smoothing=3&share=&direct_url=t4%3B%2Csesquipedalian%3B%2Cc0%3B%2Cs0%3B%3Bsesquipedalian%3B%2Cc0%3B%3BSesquipedalian%3B%2Cc0" width="900" height="500" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe>
 </div>
 
 Including these wise words from the The Christian Examiner, Volume 72, published in 1862:
