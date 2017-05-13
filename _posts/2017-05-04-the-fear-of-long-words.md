@@ -14,7 +14,7 @@ If so, you might want to avoid saying hippopotomonstrosesquipedaliophobia, becau
 
 But maybe we shouldn't fear it too much, as wiktionary adds, "it is unlikely that this 15-syllable contrivance is ever used purely for its meaning" wrly noting that "the term sesquipedalophobia is recognized in formal writing, while the four-syllable phrase *fear of long words* is certainly worth considering."
 
-But even *sesquipedalophobia*, is nowhere to be found in the [Oxford English Dictionary](http://www.oed.com/noresults?browseType=sortAlpha&noresults=true&page=1&pageSize=20&q=sesquipedalophobia&scope=ENTRY&sort=entry&type=dictionarysearch), where only the related [sesquipedalian](http://www.oed.com/view/Entry/176752?redirectedFrom=sesquipedalian&) `/ˌsɛskwɪpɪˈdeɪlɪən/` makes an appearance.
+Neither *hippopotomonstrosesquipedaliophobia* nor *sesquipedalophobia* have earned a spot in the  [Oxford English Dictionary](http://www.oed.com/noresults?browseType=sortAlpha&noresults=true&page=1&pageSize=20&q=sesquipedalophobia&scope=ENTRY&sort=entry&type=dictionarysearch), where only the related [sesquipedalian](http://www.oed.com/view/Entry/176752?redirectedFrom=sesquipedalian&) `/ˌsɛskwɪpɪˈdeɪlɪən/` makes an appearance.
 
 All of this has to make one wonder, where did this hippopotomonstrosesquipedaliophobia come from?
 
