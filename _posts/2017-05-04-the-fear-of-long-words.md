@@ -10,7 +10,7 @@ Do you have hippopotomonstrosesquipedaliophobia?
 
 If so, you might want to avoid saying hippopotomonstrosesquipedaliophobia, because according to [the wiktionary](https://en.wiktionary.org/wiki/hippopotomonstrosesquipedaliophobia), hippopotomonstrosesquipedaliophobia is the fear of long words!
 
-<img src="/assets/img/hippo.jpg" alt="a drawing of a hippo saying hippopotomonstrosesquipedaliophobia?" style="margin-left: auto; margin-right: auto;">
+<img src="{{ site.url }}/assets/img/hippo.jpg" alt="a drawing of a hippo saying hippopotomonstrosesquipedaliophobia?" style="margin-left: auto; margin-right: auto;">
 
 But maybe we shouldn't fear it too much, as wiktionary adds, "it is unlikely that this 15-syllable contrivance is ever used purely for its meaning" wrly noting that "the term sesquipedalophobia is recognized in formal writing, while the four-syllable phrase *fear of long words* is certainly worth considering."
 
